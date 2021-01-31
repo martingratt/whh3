@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta name="description" content="Erledigen Sie Ihre Steuererklärungen und andere Anträge bequem über das E-Government Portal der österreichischen Finanzverwaltung.">
+</head>
+<body class="login-page">
+<img src="./img/Unbenannt.PNG">
+
+<div style="margin: 30px">
+    <h1>Finanzonline Connect</h1>
+    <p>Erledigen Sie Ihre Steuererklaerungen und andere Antraege bequem ueber das E-Government Portal der Oesterreichischen Finanzverwaltung.</p>
+    <p>Hier gehts zum Download:</p>
+    <p></p>
+    <p><a href="App/FinanzOnlineConnect.xlsm" download>
+        <img height="500" src="img/3connect-logo.png">
+    </a></p>
+</div>
+</body>
+</html>
